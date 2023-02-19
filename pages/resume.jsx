@@ -49,10 +49,10 @@ const resume = () => {
           </div>
         </div>
         <p>
-          I'm a Front-end web developer who loves writing code, building things,
-          and solving problems. I build software and write code. I write bugs
-          and call them features. I love learning new things and playing with
-          different technologies, projects and tools. I know multiple
+          I&apos;m a Front-end web developer who loves writing code, building
+          things, and solving problems. I build software and write code. I write
+          bugs and call them features. I love learning new things and playing
+          with different technologies, projects and tools. I know multiple
           programming languages like Html, CSS, and Javascript (ReactJs,
           NextJs), and I use Frameworks for the front-end like (Bootstrap,
           Vuejs, React Bootstrap) and some others. Javascript is my major
@@ -68,6 +68,8 @@ const resume = () => {
             <span className="px-2">|</span>Front-End Web Developer
             <span className="px-2">|</span> HTML
             <span className="px-2">|</span> CSS
+            <span className="px-2">|</span> JS
+            <span className="px-2">|</span> Vue
             <span className="px-2">|</span> React
             <span className="px-2">|</span> Next
             <span className="px-2">|</span> Redux
@@ -91,7 +93,7 @@ const resume = () => {
             </span>
             <span className="px-2">|</span>E-Khata erp
           </p>
-          <p className="py-1 italic">Full Time (2021 - Current)</p>
+          <p className="py-1 italic">Full Time (MAR 2022 - FEB 2022)</p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
               Ensured comprehensive mobile responsive UI layouts with
@@ -113,7 +115,7 @@ const resume = () => {
             <span className="font-bold"> Front-end Software Engineer</span>
             <span className="px-2">|</span>Ola Books
           </p>
-          <p className="py-1 italic">Full Time (2022 - Current)</p>
+          <p className="py-1 italic">Full Time (JAN 2022 - DEC 2022)</p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
               Ensured comprehensive mobile responsive UI layouts with
@@ -140,7 +142,7 @@ const resume = () => {
           </p>
           <br />
           <p className="py-1 italic">(ICS, Computer Science)</p>
-          <p className="py-1 italic">Intermediate (2021 - 2022)</p>
+          <p className="py-1 italic">Intermediate (2021 - 2023)</p>
         </div>
 
         <div className="py-6">
@@ -150,7 +152,7 @@ const resume = () => {
           </p>
           <br />
           <p className="py-1 italic">(Computer Science)</p>
-          <p className="py-1 italic">Matriculation (2019 - 2020)</p>
+          <p className="py-1 italic">Matriculation (2019 - 2021)</p>
         </div>
       </div>
     </>

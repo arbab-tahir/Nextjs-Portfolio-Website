@@ -17,12 +17,12 @@ const About = () => {
             / / I am not your average developer
           </p>
           <p className="py-2 text-gray-600">
-            Hi, I'm Arbab Tahir, a self-taught passionate Associate Software
-            Engineer from Pakistan, currently working at Olabooks web and app as
-            a FrontEnd Software Engineer. I've been building stuff on the web
-            since when I was in 6th standard, I've made countless side projects
-            and I also posses magical powers of using reactjs, nextjs and others
-            to build delightful user interfaces.
+            Hi, I&apos;m Arbab Tahir, a self-taught passionate Associate
+            Software Engineer from Pakistan, I have worked at Olabooks web and
+            app as a FrontEnd Software Engineer. I&apos;ve been building stuff
+            on the web since when I was in 6th standard, I&apos;ve made
+            countless side projects and I also posses magical powers of using
+            reactjs, nextjs and others to build delightful user interfaces.
           </p>
           <p className="py-2 text-gray-600">
             I also love doing open source development, I actively maintain
